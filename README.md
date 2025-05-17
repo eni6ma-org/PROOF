@@ -5,7 +5,7 @@
 
 **Use the PROOF.00x.eni6ma files int he Repo Directory Root.**
 
-### - [x](https://github.com/)
+### - [https://raw.githubusercontent.com/eni6ma-org/PROOF/refs/heads/main/ROSARIO.PROOF.001.eni6ma](https://raw.githubusercontent.com/eni6ma-org/PROOF/refs/heads/main/ROSARIO.PROOF.001.eni6ma)
 
 
 NOTE: All of these PROOF in the file are valid logins for the SECRET PASSWORD plus the Holographic Map. You should be capable of reconstructing the Manifolds from the Modulo-Index array fairly easily. _
