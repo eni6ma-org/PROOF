@@ -1,0 +1,182 @@
+[
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😉",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            4,
+            17,
+            8
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😀",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            4,
+            4,
+            2
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "☹️",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            25,
+            29,
+            1
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😮",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            17,
+            0,
+            4
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😐",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            11,
+            13,
+            1
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😛",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            18,
+            20,
+            9
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😉",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            17,
+            20,
+            11
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😀",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            13,
+            22,
+            3
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "☹️",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            21,
+            20,
+            0
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😮",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            19,
+            15,
+            0
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😐",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            29,
+            9,
+            11
+        ]
+    },
+    {
+        "ENTROPY.HASH": "8475302745873452094357716198745683194",
+        "PROOF.UUID": "808f5a52-dd28-4490-aebd-ee924d769426",
+        "ENI6MA.WITNESS": "😛",
+        "META": {
+            "user": "a3b92c4f-f0d3-4857-9c94-4170f8019e68",
+            "custodian": "422b8a51-548b-484a-8d94-d2ca4222d6a5",
+            "asset": "e42a0a49-984b-4baa-9ea7-dd9a69e5c089"
+        },
+        "MODULO.SPIN": [
+            13,
+            24,
+            6
+        ]
+    }
+]
