@@ -3,7 +3,7 @@
 
 # VALID ROSARIO PROOF FILES (ENI6MA)
 
-**Use the PROOF.00x.eni6ma files int he Repo Directory Root.**
+**FINAL VALIDATED PROOFS: Use the ROSARIO.PROOF.001.eni6ma files in this Repository Root.**
 
 ### - [https://raw.githubusercontent.com/eni6ma-org/PROOF/refs/heads/main/ROSARIO.PROOF.001.eni6ma](https://raw.githubusercontent.com/eni6ma-org/PROOF/refs/heads/main/ROSARIO.PROOF.001.eni6ma)
 
@@ -38,7 +38,7 @@ Use these three pre-defined enumerated alphabets (order and symbols are importan
 
 ### 2. Witness of the Secret
 
-For each round (*1–12*), you are given a public modulo-index triple `[x,y,z]`. Rotate each alphabet ring by these offsets (modulo 30 for Alphabets 1 and 2, modulo 12 for Alphabet 3) to produce three rotated ring arrays.
+For each round (*1–12*), you are given a public modulo-index tuple `[x,y,z]`. Rotate each alphabet ring by these offsets (modulo 30 for Alphabets 1 and 2, modulo 12 for Alphabet 3) to produce three rotated ring arrays.
 
 
 **Important:** Every character is obfuscated by the Rosario Holographic Map, ensuring zero-knowledge.
